@@ -6,7 +6,7 @@ import '../styles/Content.css';
 
 class Content extends Component {
   handleClick = () => {
-    copy(`http://alibahaari.github.io/Badge-Provider/#/badges/${ this.props.imageName }.png`);
+    copy(`http://alibahaari.github.io/Badge-Provider/badges/${ this.props.imageName }.png`);
   }
 
   render() {
