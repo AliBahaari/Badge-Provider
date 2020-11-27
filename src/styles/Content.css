@@ -1,0 +1,42 @@
+.content {
+  margin-bottom: 70px;
+}
+
+.content img {
+  width: 140px;
+  display: block;
+  margin: 0 auto;
+}
+
+.content p {
+  font-size: 12px;
+  font-weight: 500;
+  margin-top: 6px;
+  text-align: center;
+}
+
+.content button {
+  display: block;
+  width: 66px;
+  border: 0;
+  padding: 6px 0;
+  border-radius: 4px;
+  margin: 0 auto;
+  margin-top: 8px;
+  font-family: inherit;
+  background-color: #3742FA;
+  color: #FFF;
+  cursor: pointer;
+  font-size: 12px;
+  transition: ease 160ms;
+}
+
+.content button:hover {
+  background-color: #57606F;
+}
+
+.content button:focus,
+.content button:active {
+  outline: 0;
+  background-color: #2F3542;
+}

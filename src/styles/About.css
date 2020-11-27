@@ -1,0 +1,15 @@
+.about {
+  width: 86%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about p {
+  padding: 20px;
+}
+
+@media only screen and (max-width: 500px) {
+  .about {
+    width: 100%;
+  }
+}

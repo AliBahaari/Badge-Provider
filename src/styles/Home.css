@@ -1,0 +1,75 @@
+.home {
+  width: 86%;
+  margin: 0 auto;
+}
+
+.home form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.home form input {
+  width: 100%;
+  display: block;
+  border: 1px solid #F5F5F5;
+  padding: 8px 4px;
+  border-radius: 0;
+  font-family: inherit;
+}
+
+.home form input:focus {
+  outline: 0;
+  border-color: #000;
+}
+
+.home .grid-container {
+  display: grid;
+  grid-template-columns: 16.66% 16.66% 16.66% 16.66% 16.66% 16.66%;
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .home .grid-container {
+    grid-template-columns: 20% 20% 20% 20% 20%;
+  }  
+}
+
+@media only screen and (max-width: 900px) {
+  .home .grid-container {
+    grid-template-columns: 25% 25% 25% 25%;
+  }  
+}
+
+@media only screen and (max-width: 700px) {
+  .home .grid-container {
+    grid-template-columns: 33.33% 33.33% 33.33%;
+  }  
+}
+
+@media only screen and (max-width: 700px) {
+  .home .grid-container {
+    grid-template-columns: 33.33% 33.33% 33.33%;
+  }
+  .home {
+    width: 100%;
+    padding: 20px;
+  }
+  .home form {
+    width: 100%;
+  }
+  .home form label {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .home .grid-container {
+    grid-template-columns: 50% 50%;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .home .grid-container {
+    grid-template-columns: 100%;
+  }
+}
