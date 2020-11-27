@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Badge-Provider/static/css/main.d57f61ee.chunk.css",
-    "main.js": "/Badge-Provider/static/js/main.7eafb113.chunk.js",
-    "main.js.map": "/Badge-Provider/static/js/main.7eafb113.chunk.js.map",
+    "main.js": "/Badge-Provider/static/js/main.623704e7.chunk.js",
+    "main.js.map": "/Badge-Provider/static/js/main.623704e7.chunk.js.map",
     "runtime-main.js": "/Badge-Provider/static/js/runtime-main.23374421.js",
     "runtime-main.js.map": "/Badge-Provider/static/js/runtime-main.23374421.js.map",
     "static/js/2.cd93741a.chunk.js": "/Badge-Provider/static/js/2.cd93741a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.23374421.js",
     "static/js/2.cd93741a.chunk.js",
     "static/css/main.d57f61ee.chunk.css",
-    "static/js/main.7eafb113.chunk.js"
+    "static/js/main.623704e7.chunk.js"
   ]
 }
