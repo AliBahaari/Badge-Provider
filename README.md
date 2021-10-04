@@ -17,4 +17,4 @@ Do you want to beautify your GitHub repositories README.md?
 
 *and...*
 
-Check more badges out on the site URL placed in the bio.
+Check more badges out on the site URL placed in the *About* section.
