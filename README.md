@@ -1,8 +1,8 @@
 # Badge Provider 
 
-Do you want to beautify your GitHub repositories README.md?
+Do you want to beautify your GitHub repositories README.md files?
 
-"Badge Provider" provides many badges for programming languages which can be used to make easy and attractive understanding the repositories.
+"Badge Provider" provides many badges for programming languages and technologies which can be used to make attractive and more understandable repositories README.md files.
 
 
 ## Demo
